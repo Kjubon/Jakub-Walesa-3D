@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang=``pl``>
+<head>
+<title>zadanie7</title>
+<meta charset="UTF-8" />
+</head>
+<body>
+  <ol>
+    <li>
+    ::marker
+    "Punkt 1 listy numerowanej ma dwa podpunkty numerowane."
+    </li>
+  <ol>
+    <li>
+    ::marker
+    "pirerwsze wypunktowanie,"
+    </li>
+  <li>
+    ::marker
+    "drugie wypunktowanie."
+  </li>
+</ul>
+<li>
+  ::marker
+  "Punkt 2 listy numerowanej ma podpunkty:"
+</li>
+<ul>
+  <li>
+  ::marker
+  "podpunkt 1,"
+  </li>
+</ul>
+<li>
+  ::marker
+  "Punkt 3 listy numerowanej nie ma podpunktów>"
+</li>
+</ol>
+
+
+<a href="index.html">Strona główna</a>
+</body>
+</html>
