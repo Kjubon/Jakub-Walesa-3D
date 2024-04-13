@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang=``pl``>
+<head>
+<title>zadanie</title>
+<meta charset="UTF-8" />
+</head>
+<body>
+    <<div>
+    <img src="kampus.jpg" width="200" height="50" alt="Kampus">
+    <hr />
+    <ul>
+        <li>styczeń</li>
+        <li>luty</li>
+        <li>marzec</li>
+        <li>kwiecień</li>
+        <li>maj</li>
+        <li>czerwiec</li>
+        <li>lipiec</li>
+        <li>sierpień</li>
+        <li>wrzesień</li>
+        <li>październik</li>
+        <li>listopad</li>
+        <li>grudzień</li>
+    </ul>
+</div>
+
+<a href="index.html">Strona główna</a>
+</body>
+</html>
